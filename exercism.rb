@@ -5,9 +5,9 @@ require 'formula'
 
 class Exercism < Formula
   homepage 'http://exercism.io/'
-  url 'https://github.com/msgehard/go-exercism/releases/download/v1.1.1/exercism-darwin-amd64.tgz'
-  sha1 '9b9550b0ac7f10ce1ef0b4e2c416c3c2623cb2e1'
-  version '1.1.1'
+  url 'https://github.com/exercism/cli/releases/download/v1.4.0/exercism-darwin-amd64.tgz'
+  sha1 '46059ab4deb4a10181675566b1ce0b5f79f9d933'
+  version '1.4.0'
 
   depends_on :arch => :x86_64
 
