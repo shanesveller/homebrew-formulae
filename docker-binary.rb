@@ -1,6 +1,6 @@
 require 'formula'
 
-class Docker < Formula
+class DockerBinary < Formula
   homepage 'https://www.docker.io/'
 
   if MacOS.prefer_64_bit?
