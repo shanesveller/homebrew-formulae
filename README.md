@@ -1,4 +1,4 @@
 ```
-$ brew tap shanesveller/brews
-$ brew install exercism
+$ brew tap shanesveller/formulae
+$ brew install <formula>
 ```
